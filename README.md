@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[LIVE Deployment Link](https://pizzeria-frontend.viola-ivolga.repl.co/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
